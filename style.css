@@ -137,7 +137,8 @@ nav a {
 }
 
 .yellow-txt {
-    color: #ECE480;
+    /* color: #ECE480; */
+    color: chocolate;
     font-weight: 600;
 }
 
